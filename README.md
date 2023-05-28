@@ -1,1 +1,1 @@
-# Medical Price Predictor
+# Medical Price Prediction
